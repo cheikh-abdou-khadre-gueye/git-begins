@@ -1,2 +1,3 @@
 cloner un repo :git clone adresse ssh ou https.
 les trois commande de pusher :git clone,git commit,git push
+git pull pour pull
